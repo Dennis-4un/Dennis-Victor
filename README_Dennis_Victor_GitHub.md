@@ -1,3 +1,7 @@
+<img width="2032" height="774" alt="github-banner" src="https://github.com/user-attachments/assets/3f91b25a-f7a7-4f65-9aeb-35df176a920a" />
+
+
+
 <div align="center">
 
 # Dennis Victor
